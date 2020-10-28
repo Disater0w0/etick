@@ -1,0 +1,19 @@
+h1 {
+  color:SeaGreen
+}
+.navigation {
+  display: flex;
+  align-items: center;
+  border-bottom:1px solid
+  margin: 0 24px;
+  min-height: 4.5rem;
+  box-sizing:content-box;
+}
+
+ #logo {
+  align-items:left;
+  margin: 0 10px;
+  min-height:4.5rem;
+  max-height:4.5rem;
+  border-right: 1px solid;
+}
