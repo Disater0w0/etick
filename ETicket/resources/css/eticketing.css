@@ -100,3 +100,27 @@ body {font-family: Verdana, sans-serif;}
   background: #1abc9c;
   color: white !important
 }
+
+.profileA {
+  border-width: medium;
+  border-color: grey;
+  border-style: outset;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#profilePicture {
+  border-radius: 100%;
+  width: 100px;
+  length:100px;
+  padding-left: 50%;
+  padding-right: 50%;
+  position:relative;
+}
+#quickCalender {
+  padding-left: 47%;
+  padding-right: 47%;
+  width: 200px;
+  length: 200px;
+
+}
