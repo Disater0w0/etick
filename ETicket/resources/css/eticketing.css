@@ -1,3 +1,5 @@
+/* Tyler Fields */
+
 h1 {
   color:SeaGreen
 }
@@ -27,7 +29,7 @@ h1 {
 ul {list-style-type: none;}
 body {font-family: Verdana, sans-serif;}
 
-/* Month header */
+
 .month {
   padding: 25px 25px;
   width: 95%;
@@ -37,7 +39,7 @@ body {font-family: Verdana, sans-serif;}
   margin-right: 10px;
 }
 
-/* Month list */
+
 .month ul {
   margin: 0;
   padding: 0;
@@ -51,13 +53,13 @@ body {font-family: Verdana, sans-serif;}
   padding:;
 }
 
-/* Previous button inside month header */
+
 .month .prev {
   float: left;
   padding-top: 10px;
 }
 
-/* Next button */
+
 .month .next {
   float: right;
   padding-top: 10px;
